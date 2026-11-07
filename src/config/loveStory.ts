@@ -149,8 +149,6 @@ export const loveStoryConfig: LoveStoryConfig = {
       "I lost in your eyes.. that my eyes sees only you in the entire world 💖...",
       "Your cheeks..! The softest and the Tastiest thing i could ever Bite 🫠😋",
       "The warmth you bring into my life whenever you call me or hold my hand.",
-      "The way you giggle and the gentle kindness in your heart.",
-      "How safe and peaceful the world feels when I am right next to you.",
     ],
     specialCheekMessage: "P.S. Warning: Cheeks are subject to constant emergency bites! 🙈🥰",
   },
